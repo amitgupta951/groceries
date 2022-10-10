@@ -1,0 +1,8 @@
+uuid: 4b98a898-dddb-4687-9865-2e73f35cc964
+langcode: en
+status: true
+dependencies: {  }
+name: 'Grocery Type'
+vid: grocery_type
+description: 'Grocery Type Description'
+weight: 0
